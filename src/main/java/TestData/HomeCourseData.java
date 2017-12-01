@@ -12,6 +12,6 @@ public class HomeCourseData {
 	}	
    //获取接口路由
 	public static String getUrl(){
-		return "http://weixin.gantangerbus.com/ebus/app/r/common";
+		return "http://127.0.0.1:8080/ebus/app/r/common";
 	}
 }
